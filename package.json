@@ -1,0 +1,15 @@
+{
+  "name": "sbny",
+  "version": "1.0.0",
+  "description": "Discord bot to notify about Skyblock events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karma Kitten",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "request": "^2.88.2"
+  }
+}
