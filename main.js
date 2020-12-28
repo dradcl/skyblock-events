@@ -125,4 +125,4 @@ function calculateTime(seconds) {
     return (seconds - currentTime) * 1000
 }
 
-client.login('NzQ2NTc4OTM5NDMwMDQzNzAw.X0CX0Q.EHqBCivDC2hUDrHQbkuYu3KY2oQ');
+client.login('');
